@@ -1,6 +1,6 @@
 # CS510 CW 8
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Chelsea Parlett-Pelleriti and Alice Wong**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-08-YOURNAME)
 
@@ -29,7 +29,7 @@ def julia(z):
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This was really helpful. This is a lot easier than using Pypy and the  speed up was insane for 2 added lines of  code. My current midterm assignment takes a long time to run, so this may help with that.**
 
 ## Honor Pledge
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Chelsea Parlett-Pelleriti and  Alice Wong**
