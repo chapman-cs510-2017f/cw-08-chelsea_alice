@@ -1,3 +1,10 @@
+###
+# Name: Sook Mun Wong, Chelsea Parlett-Pelleriti
+# Student ID: 2303539 & 2298930
+# Email: sowong@chapman.edu & parlett@chapman.edu
+# Course: CS510 Fall 2017
+# Assignment: CW-08
+###
 import cplane_np
 import numpy as np
 import matplotlib.pyplot as plt
